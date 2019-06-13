@@ -1,0 +1,6 @@
+.top-bar-container {
+    width: 100%;
+    z-index: 22;
+    -webkit-font-smoothing: subpixel-antialiased;
+    background-clip: content-box;
+}
